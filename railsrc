@@ -1,0 +1,1 @@
+--builder=~/.railsconf/app_builder.rb --template=~/.railsconf/app_template.rb --database=postgresql --skip-bundle --javascript=jquery
